@@ -4,6 +4,7 @@ metadata:
   name: guestbook-ui
   labels:
     demo: "true"
+    demo2: "yes"
 spec:
   replicas: 1
   revisionHistoryLimit: 3
